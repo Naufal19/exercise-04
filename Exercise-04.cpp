@@ -1,3 +1,7 @@
+// nama : naufal ariful amri
+// npm  : 140810180009
+// kelas: A
+
 #include <iostream>
 using namespace std ;
 
